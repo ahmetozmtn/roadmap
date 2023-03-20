@@ -1,24 +1,34 @@
 # Yazılıma Nereden Başlanmalı?
 
-
-* ### Yazılım öğrenmek istiyorum ancak,
-
-* ### Yazılım ile daha önce hiç ilgilenmedim, yazılıma nereden başlamalıyım?
-
-* ### Yazılımda başarılı olmak için üniversite mezunu olmam gerekiyor mu?
-
-* ### [Yazılımın hangi alanında kendimi geliştirmeliyim?](#Yazılımın-hangi-alanında-kendimi-geliştirmeliyim?)
-
-* ### [Yazılım dilleri nelerdir?](#Yazılım-dilleri-nelerdir?)
-
-* ### [Yazılım dili öğrenmek için nasıl çalışmalıyım?](#yazılım-dili-öğrenmek-için-nasıl-çalışmalıyım?)
+<ul>
+    <h3>
+        <li>
+            Yazılım öğrenmek istiyorum ancak,
+        </li>
+        <li>
+            <a  href="#yazilim1" >Yazılım ile daha önce hiç ilgilenmedim, yazılıma nereden başlamalıyım?<a>
+        </li>
+        <li>
+            <a href="#yazilim2">Yazılımda başarılı olmak için üniversite mezunu olmam gerekiyor mu?</a>
+        </li>
+        <li>
+            <a href="#yazilim3">Yazılımın hangi alanında kendimi geliştirmeliyim?</a>
+        </li>
+        <li>
+            <a href="#yazilim4">Yazılım dilleri nelerdir?</a>
+        </li>
+        <li>
+            <a  href="#yazilim1" >Yazılım dili öğrenmek için nasıl çalışmalıyım?</a>
+    </li>
+    </h3>
+</ul>
 
 ## Gibi sorular aklınızı mı kurcalıyor?
 * ### Gelin beraber o sorulara cevap vermeye çalışalım.
 
 <br/><br/>
 
-# Yazılıma nereden başlamalıyım?
+<h1 id="yazilim1">Yazılıma nereden başlamalıyım?
 
 <br>
 
@@ -34,7 +44,7 @@
 
 <br/><br/>
 
-# Üniversite mezunu olmam gerekiyor mu?
+<h1 id="yazilim2"> Üniversite mezunu olmam gerekiyor mu?
 
 <br>
 
@@ -56,7 +66,7 @@
 
 <br>
 
-# Yazılımın hangi alanında kendimi geliştirmeliyim?
+<h1 id="yazilim3">Yazılımın hangi alanında kendimi geliştirmeliyim?
 
 <br>
 
@@ -160,7 +170,7 @@
 
 <br>
 
-# Yazılım dilleri nelerdir?
+<h1 id="yazilim4">Yazılım dilleri nelerdir?
 
 <br>
 
@@ -384,7 +394,8 @@
 
 <br/><br/>
 
-# Yazılım dili öğrenmek için nasıl çalışmalıyım?
+
+<h1 id="yazilim5">Yazılım dili öğrenmek için nasıl çalışmalıyım?</h">
 
 <br>
 
