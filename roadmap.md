@@ -1,6 +1,5 @@
 # Yazılıma Nereden Başlanmalı?
 
-<<<<<<< HEAD
 <ul>
     <h3>
         <li>
@@ -19,33 +18,15 @@
             <a href="#yazilim4">Yazılım dilleri nelerdir?</a>
         </li>
         <li>
-            <a  href="#yazilim1" >Yazılım dili öğrenmek için nasıl çalışmalıyım?</a>
+            <a  href="#yazilim5" >Yazılım dili öğrenmek için nasıl çalışmalıyım?</a>
     </li>
     </h3>
 </ul>
-=======
-
-* ### Yazılım öğrenmek istiyorum ancak,
-
-* ### Yazılım ile daha önce hiç ilgilenmedim, yazılıma nereden başlamalıyım?
-
-* ### Yazılımda başarılı olmak için üniversite mezunu olmam gerekiyor mu?
-
-* ### [Yazılımın hangi alanında kendimi geliştirmeliyim?](#yazılımın-hangi-alanında-kendimi-geliştirmeliyim?)
-
-* ### [Yazılım dilleri nelerdir?](#Yazılım-dilleri-nelerdir?)
-
-* ### [Yazılım dili öğrenmek için nasıl çalışmalıyım?](#Yazılım-dili-öğrenmek-için-nasıl-çalışmalıyım?)
->>>>>>> 64b73aed4b5cf4cd1fad4155e9fd4449f6956de4
 
 ## Gibi sorular aklınızı mı kurcalıyor?
 * ### Gelin beraber o sorulara cevap vermeye çalışalım.
 
 <br/><br/>
-
-<h1 id="yazilim1">Yazılıma nereden başlamalıyım?
-
-<br>
 
 ### Yazılım öğrenmek aslında zor değil ancak bilgi karmaşasından ve neyi ne zaman öğrenmemiz gerektiğini bilmiyor olmamızdan dolayı kolay olan bu süreci çok zor olarak görüyoruz ki; bana göre önümüzdeki en büyük engel bu, yani yazılım öğrenme sürecini zor olarak görmemizdir. 
 
