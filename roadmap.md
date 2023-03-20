@@ -222,7 +222,7 @@
 
 <br>
 
-### Frontend alanında sistemli bir şekilde zaman kaybetmeden başarılı olmak için "Komple Uygulamalı Web Geliştirme" kursuma katılabilirsiniz. Bu kursa katılarak web tasarım konularından olan Html, Css, Javascript, Bootstrap ve JQuery kullanımını iyi bir şekilde bol uygulama yaparak öğrenebilirsiniz.
+### Frontend alanında sistemli bir şekilde zaman kaybetmeden başarılı olmak için ["Komple Uygulamalı Web Geliştirme"](https://www.udemy.com/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1) kursuma katılabilirsiniz. Bu kursa katılarak web tasarım konularından olan Html, Css, Javascript, Bootstrap ve JQuery kullanımını iyi bir şekilde bol uygulama yaparak öğrenebilirsiniz.
 
 <br>
 
