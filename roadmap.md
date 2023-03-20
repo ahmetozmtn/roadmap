@@ -1,5 +1,6 @@
 # Yazılıma Nereden Başlanmalı?
 
+<<<<<<< HEAD
 <ul>
     <h3>
         <li>
@@ -22,6 +23,20 @@
     </li>
     </h3>
 </ul>
+=======
+
+* ### Yazılım öğrenmek istiyorum ancak,
+
+* ### Yazılım ile daha önce hiç ilgilenmedim, yazılıma nereden başlamalıyım?
+
+* ### Yazılımda başarılı olmak için üniversite mezunu olmam gerekiyor mu?
+
+* ### [Yazılımın hangi alanında kendimi geliştirmeliyim?](#yazılımın-hangi-alanında-kendimi-geliştirmeliyim?)
+
+* ### [Yazılım dilleri nelerdir?](#Yazılım-dilleri-nelerdir?)
+
+* ### [Yazılım dili öğrenmek için nasıl çalışmalıyım?](#Yazılım-dili-öğrenmek-için-nasıl-çalışmalıyım?)
+>>>>>>> 64b73aed4b5cf4cd1fad4155e9fd4449f6956de4
 
 ## Gibi sorular aklınızı mı kurcalıyor?
 * ### Gelin beraber o sorulara cevap vermeye çalışalım.
