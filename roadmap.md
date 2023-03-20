@@ -11,7 +11,7 @@
 
 * ### [Yazılım dilleri nelerdir?](#Yazılım-dilleri-nelerdir?)
 
-* ### [Yazılım dili öğrenmek için nasıl çalışmalıyım?](#Yazılım-dili-öğrenmek-için-nasıl-çalışmalıyım?)
+* ### [Yazılım dili öğrenmek için nasıl çalışmalıyım?](#yazılım-dili-öğrenmek-için-nasıl-çalışmalıyım?)
 
 ## Gibi sorular aklınızı mı kurcalıyor?
 * ### Gelin beraber o sorulara cevap vermeye çalışalım.
