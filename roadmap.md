@@ -226,11 +226,11 @@
 
 <br>
 
-### Html ve css bilgisini herkes yapar beni frontend alanında öne çıkaracak konu ne olur derseniz de; size tavsiyem javascript dilini çok iyi öğrenmenizdir.  
+### Html ve css bilgisini herkes yapar beni frontend alanında öne çıkaracak konu ne olur derseniz de; size tavsiyem [javascript](https://www.udemy.com/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32) dilini çok iyi öğrenmenizdir.  
 
 <br>
 
-### Son zamanlarda Javascript'in popülerliği ile çıkan bir çok Javascript türevi kütüphane ile birlikte artık web sayfaları üzerinde mobile uygulama tarzında çalışan Single Page Application (SPA) diye isimlendirilen tek sayfalık web uygulamaları ile mutlaka karşılaşmışınızdır. Javascript tabanlı bu yapıların en başında Angular, React ve VueJs gelmektedir ve Javascript tamamen Frontend alanında değerlendiriliyor. 
+### Son zamanlarda Javascript'in popülerliği ile çıkan bir çok Javascript türevi kütüphane ile birlikte artık web sayfaları üzerinde mobile uygulama tarzında çalışan Single Page Application (SPA) diye isimlendirilen tek sayfalık web uygulamaları ile mutlaka karşılaşmışınızdır. Javascript tabanlı bu yapıların en başında [Angular](https://www.udemy.com/angular-dersleri/?referralCode=296CF5D100064B0E29FC), React ve VueJs gelmektedir ve Javascript tamamen Frontend alanında değerlendiriliyor. 
 
 <br>
 
@@ -388,7 +388,7 @@
 
 <br>
 
-### "Uygulamalı C# Programlama Eğitimi : Yeni Başlayanlar" isimli kursuma katılmanız size büyük fayda sağlayacaktır. Kursta sıfırdan programlama mantığı dahil olmak üzere bir çok programlama konusunu öğrenip her hangi bir web programlama platformunu öğrenebilecek alt yapıya fazlasıyla sahip olacaksınız.
+### ["Uygulamalı C# Programlama Eğitimi : Yeni Başlayanlar"](https://www.udemy.com/komple-uygulamali-programlama-egitimi-yeni-baslayanlar/?referralCode=1D40058027DF00FE70BF) isimli kursuma katılmanız size büyük fayda sağlayacaktır. Kursta sıfırdan programlama mantığı dahil olmak üzere bir çok programlama konusunu öğrenip her hangi bir web programlama platformunu öğrenebilecek alt yapıya fazlasıyla sahip olacaksınız.
 
 
 <br/><br/>
