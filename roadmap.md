@@ -7,7 +7,7 @@
 
 * ### Yazılımda başarılı olmak için üniversite mezunu olmam gerekiyor mu?
 
-* ### [Yazılımın hangi alanında kendimi geliştirmeliyim?](#Yazılımın-hangi-alanında-kendimi-geliştirmeliyim?)
+* ### [Yazılımın hangi alanında kendimi geliştirmeliyim?](#yazılımın-hangi-alanında-kendimi-geliştirmeliyim?)
 
 * ### [Yazılım dilleri nelerdir?](#Yazılım-dilleri-nelerdir?)
 
