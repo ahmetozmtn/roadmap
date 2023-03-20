@@ -27,6 +27,9 @@
 * ### Gelin beraber o sorulara cevap vermeye çalışalım.
 
 <br/><br/>
+    
+    
+# Yazılıma nereden başlamalıyım?
 
 ### Yazılım öğrenmek aslında zor değil ancak bilgi karmaşasından ve neyi ne zaman öğrenmemiz gerektiğini bilmiyor olmamızdan dolayı kolay olan bu süreci çok zor olarak görüyoruz ki; bana göre önümüzdeki en büyük engel bu, yani yazılım öğrenme sürecini zor olarak görmemizdir. 
 
