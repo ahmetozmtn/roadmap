@@ -82,7 +82,7 @@
             <a href="#webdev">Web Geliştirme,</a>
             <ul>
                 <li>
-                <a href="#frontend">Frontend</a>
+                    Frontend
                 </li>
                 <li> 
                 <a href="#backend">Backend</a>
@@ -227,11 +227,22 @@
 
 <br>
 
-### Web Geliştirme alanı 3 ana alt başlık altında ele alınabilir.
+## Web Geliştirme alanı 3 ana alt başlık altında ele alınabilir.
 
-* ### Frontend
-* ### Backend
-* ###  [Full-Stack Web Geliştirici](https://www.udemy.com/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1)
+<h3>
+    <ul>
+        <li>
+            <a href="#frontend"> Frontend </a>
+        </li>
+        <li>
+        <a href="#backend">Backend</a>
+        </li>
+        <li>
+        <a href="https://www.udemy.com/komple-web-developer-kursu/?referralCode=5D4498D410A2750305C1">Full-Stack Web Geliştirici Kursu </a>
+        </li>
+    </ul>
+</h3>
+
 
 <br/><br/>
 
