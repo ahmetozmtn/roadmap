@@ -19,7 +19,10 @@
         </li>
         <li>
             <a  href="#yazilim5" >Yazılım dili öğrenmek için nasıl çalışmalıyım?</a>
-    </li>
+        </li>
+        <li>
+            <a  href="#temel" >Temel Kavramlar Nelerdir?</a>
+        </li>
     </h3>
 </ul>
 
@@ -69,11 +72,34 @@
 
 <br>
 
-### Genel olarak yazılımı 3 ana grup altında ele alabiliriz. Tabi ki her grup altında bir çok alt başlık sayabiliriz. Hatta farklı gruplardan da bahsedebiliriz ancak biz yazılım öğrenmeye yeni başlıyoruz ve en genel haliyle,
+### Genel olarak yazılımı 6 ana grup altında ele alabiliriz. Tabi ki her grup altında bir çok alt başlık sayabiliriz. Hatta farklı gruplardan da bahsedebiliriz ancak biz yazılım öğrenmeye yeni başlıyoruz ve en genel haliyle,
 
-* ### Web geliştirme,
+<br>
+
+<ul>
+    <h3>
+        <li>
+            <a href="#webdev">Web Geliştirme,</a>
+            <ul>
+                <li>
+                <a href="#frontend">Frontend</a>
+                </li>
+                <li> 
+                <a href="#backend">Backend</a>
+                </li>
+            </ul>
+        </li>
+    </h3>
+</ul>
+
+<!-- * ### Web geliştirme, -->
+<!-- * #### Frontend
+* #### Backend -->
+* ### Oyun Geliştirme,
+* ### Gömülü Sistemler,
 * ### Mobil uygulama geliştirme,
 * ### Masaüstü uygulaması geliştirme,
+* ### Yapay Zeka-Veri bilimi-Makine Öğrenmesi 
 
 <br>
 
@@ -90,7 +116,7 @@
 
 <br>
 
-## Öncelikle Gelin Bir Kaç Temel Kavramı Öğrenelim.
+ <h2 id="temel">Öncelikle Gelin Bir Kaç Temel Kavramı Öğrenelim.
 
 <br>
 
@@ -189,7 +215,7 @@
 
 <br/><br/>
 
-# Web Geliştirme ile mi ilgilenmek istiyorsunuz? 
+<h1 id="webdev">Web Geliştirme ile mi ilgilenmek istiyorsunuz? 
 
 <br>
 
@@ -209,7 +235,7 @@
 
 <br/><br/>
 
-# Frontend geliştiriciler hangi konuları öğrenmelidir?
+<h1 id="frontend"> Frontend geliştiriciler hangi konuları öğrenmelidir?
 
 <br>
 
@@ -282,7 +308,7 @@
 
 <br/><br/>
 
-# Backend geliştiriciler hangi konuları öğrenmelidir?
+<h1 id="backend"> Backend geliştiriciler hangi konuları öğrenmelidir?
 
 <br>
 
